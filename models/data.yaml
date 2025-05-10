@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/yolo1/Plastic-Recyclable-Detection-Updated/train/images
+val: /content/drive/MyDrive/yolo1/Plastic-Recyclable-Detection-Updated/valid/images
+test: /content/drive/MyDrive/yolo1/Plastic-Recyclable-Detection-Updated/test/images
+nc: 7
+names: ['Multi-layer Plastic', 'HDPE Plastic', 'Single-Use-Plastic', 'PET Bottle', 'Single-layer Plastic', 'UHT-Box', 'Squeeze-Tube']
