@@ -1,0 +1,4 @@
+these are the drive links for the datasets
+
+dataset for yolov8 training - https://drive.google.com/drive/folders/1MUuOIXH2K2PqtOdey2QFNpfI6DxNT-Pw?usp=sharing
+dataset for classification purpose - https://drive.google.com/drive/folders/1kqkpP_C46Xo0t10SCeHdaY_rEQK26Lmc?usp=sharing 
