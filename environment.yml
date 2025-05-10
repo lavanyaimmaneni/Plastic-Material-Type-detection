@@ -1,0 +1,13 @@
+name: yolo_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9  # Use a compatible Python version (adjust if needed)
+  - ultralytics=8.3.102
+  - opencv=4.10.0
+  - numpy=1.26.4
+  - pip:
+    - ultralytics==8.3.102  # Ensure exact version match if Conda version differs
+    - opencv-python==4.10.0  # Use pip for opencv-python if Conda version is incompatible
+    - numpy==1.26.4
